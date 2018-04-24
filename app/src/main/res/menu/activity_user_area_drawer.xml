@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:background="@color/nav_bar_body"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_locationON"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/strBtnLocationOn"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_locationOFF"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/strBtnLocationOFF"
+            android:visible="true" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_about"
+            android:title="@string/action_about" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="@string/btnLogout" />
+    </group>
+
+</menu>

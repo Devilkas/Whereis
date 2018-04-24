@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>>
+    <color name="white">#ffffff</color>
+    <color name="input_tint">#bebebe</color>
+    <color name="bg_main">#000000</color>
+    <color name="nav_bar_head">#242424</color>
+    <color name="head_tool_bar">#24c4db</color>
+    <color name="nav_bar_body">#2d70aa</color>
+    <color name="nav_bar_gradient_start">#ee00ee</color>
+    <color name="nav_bar_gradient_end">#2d70aa</color>
+    <color name="nav_bar_title_gradient_end">#00ffff</color>
+</resources>
