@@ -2,9 +2,9 @@ package alex.kushnerov.whereis.setting;
 
 public class Config {
 
-    public static final String DEFAUTL_LOGIN_URL = "REPLACE_ME";
-    public static final String DEFAUTL_COORDINATES_REQUEST_URL = "REPLACE_ME";
-    public static final String DATA_URL = "REPLACE_ME";
+    public static final String DEFAUTL_LOGIN_URL = "login.php";
+    public static final String DEFAUTL_COORDINATES_REQUEST_URL = "addToJson.php";
+    public static final String DATA_URL = "Servers.json";
 
     private static String LOGIN_URL;
     private static String COORDINATES_REQUEST_URL;
