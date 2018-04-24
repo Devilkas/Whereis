@@ -1,0 +1,24 @@
+{
+  "Servers": [
+    {
+      "nameServer": "ServerLibrary",
+      "url_login": "login.php",
+      "url_addCoordinats": "addToJson.php"
+    },
+    {
+      "nameServer": "Server2",
+      "url_login": "login2",
+      "url_addCoordinats": "coordinat2"
+    },
+    {
+      "nameServer": "Server3",
+      "url_login": "login3",
+      "url_addCoordinats": "coordinat3"
+    },
+    {
+      "nameServer": "Server4",
+      "url_login": "login4",
+      "url_addCoordinats": "coordinat4"
+    }
+  ]
+}
